@@ -7,7 +7,7 @@ import random
 import argparse
 from datetime import datetime
 import logging
-from fake_useragent import UserAgent  # You'll need to install this: pip install fake-useragent
+from fake_useragent import UserAgent  
 
 # Configure logging
 logging.basicConfig(
