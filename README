@@ -1,0 +1,16 @@
+Submission by JOSHUA RAYAN through internshala
+
+Requirements
+Python 3.6+
+Required packages:
+    requests
+    beautifulsoup4
+    fake-useragent
+
+
+Clone this repository:
+  git clone https://github.com/yourusername/stealthy-olx-scraper.git
+  cd stealthy-olx-scraper
+
+Install required packages:
+pip install requests beautifulsoup4 fake-useragent
